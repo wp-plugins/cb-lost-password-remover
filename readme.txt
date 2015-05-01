@@ -36,7 +36,7 @@ Answer to foo bar dilemma.
 
 == Screenshots ==
 
-
+screenshot-1.png
 
 == Changelog ==
 
