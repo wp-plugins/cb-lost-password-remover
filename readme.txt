@@ -7,10 +7,10 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Removes the ability for non admin users to reset/lost password remover/ their passwords option.
+(improve your website security) Removes the ability for non admin users to reset/lost password remover/ their passwords option.
 
 == Description ==
-If you want to remove reset/lost password remover option in your wordpress then just use this plguin. 
+(improve your website security) If you want to remove reset/lost password remover option in your wordpress then just use this plguin. 
 Removes the ability for non admin users to reset/lost password remover/ their passwords option.
 
 
