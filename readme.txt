@@ -36,7 +36,7 @@ Answer to foo bar dilemma.
 
 == Screenshots ==
 
-1. 
+1. '/assets/screenshot-1.png'
 
 == Changelog ==
 
