@@ -1,4 +1,5 @@
 === CB Lost Password Remover ===
+Contributors: hmbashar
 Donate link: https://www.facebook.com/profile.php?id=100001390268821
 Tags: comments, spam
 Requires at least: 3.0.1
