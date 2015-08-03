@@ -37,10 +37,15 @@ Answer to foo bar dilemma.
 
 == Screenshots ==
 
-1. /assets/screenshot-1.png
-1. /assets/screenshot-2.png
+1. screenshot-1.png
+1. screenshot-2.png
 
 == Changelog ==
 
 = 1.0 =
 * Just Create new version.
+
+
+= 1.1 =
+* improve security
+
