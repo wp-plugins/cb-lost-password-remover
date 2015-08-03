@@ -2,7 +2,7 @@
 /*
  * Plugin Name: CB Lost Password Remover
  * Description: Removes the ability for non admin users to reset/lost password remover/ their passwords option.
- * Version: 1.0
+ * Version: 1.1
  * Author: Md Abul Bashar
  * Author URI: http://www.codingbank.com
  */
